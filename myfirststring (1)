@@ -1,0 +1,146 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[5]:
+
+
+mystring = "hello world"
+
+
+# In[6]:
+
+
+mystring
+
+
+# In[10]:
+
+
+mystring[0]
+
+
+# In[11]:
+
+
+mystring[5]
+
+
+# In[12]:
+
+
+mystring[7]
+
+
+# In[13]:
+
+
+mystring[8]
+
+
+# In[14]:
+
+
+mystring[-4]
+
+
+# In[15]:
+
+
+mystring[-7]
+
+
+# In[16]:
+
+
+mystring[-1]
+
+
+# In[17]:
+
+
+mystring = 'abcdefghijk'
+
+
+# In[19]:
+
+
+mystring[::]
+
+
+# In[20]:
+
+
+mystring[2:]
+
+
+# In[21]:
+
+
+mystring[::2]
+
+
+# In[22]:
+
+
+mystring[::1]
+
+
+# In[23]:
+
+
+mystring[::3]
+
+
+# In[24]:
+
+
+mystring[:3]
+
+
+# In[25]:
+
+
+mystring[::]
+
+
+# In[26]:
+
+
+mystring[3:6]
+
+
+# In[27]:
+
+
+mystring[1:3]
+
+
+# In[28]:
+
+
+mystring
+
+
+# In[29]:
+
+
+mystring[::2]
+
+
+# In[30]:
+
+
+mystring[-1]
+
+
+# In[31]:
+
+
+mystring[::-1]
+
+
+# In[ ]:
+
+
+
+
